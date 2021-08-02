@@ -3,14 +3,14 @@
 	"displayName": "WebP Fallback",
 	"description": "Generate HTML <picture> tag with WebP image source and fallback source",
 	"version": "1.0.0",
-	"publisher": "xxRockOnxx",
+	"publisher": "captainskippah",
   "repository": {
     "type": "git",
     "url": "https://github.com/xxRockOnxx/webp-fallback"
   },
   "bugs": {
     "url": "https://github.com/xxRockOnxx/webp-fallback/issues",
-    "email": "sarah.drasner@gmail.com"
+    "email": "is101.lemuel@gmail.com"
   },
   "homepage": "https://github.com/xxRockOnxx/webp-fallback",
 	"engines": {
